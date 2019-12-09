@@ -12,3 +12,5 @@ else
   APP_CPPFLAGS += -DNDEBUG
   APP_OPTIM := release
 endif
+
+add new line first
