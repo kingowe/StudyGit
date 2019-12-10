@@ -13,4 +13,3 @@ else
   APP_OPTIM := release
 endif
 
-add new line first
