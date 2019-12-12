@@ -18,4 +18,3 @@ add new line third
 
 add first for tortoise git 1
 add second for tortoise git 2
-add third for tortoise git 3
