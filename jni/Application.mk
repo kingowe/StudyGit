@@ -13,8 +13,5 @@ else
   APP_OPTIM := release
 endif
 
-<<<<<<< HEAD
 add new line first
 add new line third
-=======
->>>>>>> a353866
