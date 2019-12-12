@@ -17,3 +17,4 @@ add new line first
 add new line third
 
 add first for tortoise git 1
+add second for tortoise git 2
